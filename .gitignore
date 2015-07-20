@@ -1,3 +1,6 @@
+# Secrets.
+client_secrets.json
+
 # Local databases.
 *.db
 

@@ -1,6 +1,16 @@
 Flask==0.10.1
+Flask-Login==0.2.11
 Jinja2==2.7.3
 MarkupSafe==0.23
 SQLAlchemy==1.0.6
 Werkzeug==0.10.4
+httplib2==0.9.1
+ipdb==0.8.1
+ipython==3.2.1
 itsdangerous==0.24
+oauth2client==1.4.12
+pyasn1==0.1.8
+pyasn1-modules==0.0.6
+requests==2.7.0
+rsa==3.1.4
+six==1.9.0
